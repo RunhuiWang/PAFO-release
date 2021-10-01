@@ -1,0 +1,1000 @@
+ 1007  vim testGraphs.sh 
+ 1008  ./testGraphs.sh 
+ 1009  vim testGraphs.sh 
+ 1010  ls
+ 1011  vim testGraphs.sh 
+ 1012  ./testGraphs.sh 
+ 1013  vim testGraphs.sh 
+ 1014  ./testGraphs.sh 
+ 1015  vim twitterResults 
+ 1016  cd -
+ 1017  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1018  vim coverforwardpush.cpp 
+ 1019  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1020  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr --hybridsize 50 --rwmode 0 >> flickrWorkloadTest
+ 1021  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1022  vim coverforwardpush.cpp 
+ 1023  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1024  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr --hybridsize 50 --rwmode 0 >> flickrWorkloadTest
+ 1025  vim flickrWorkloadTest 
+ 1026  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1027  vim flickrWorkloadTest 
+ 1028  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1029  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1030  vim flickrWorkloadTest 
+ 1031  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1032  vim flickrWorkloadTest 
+ 1033  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1034  vim flickrWorkloadTest 
+ 1035  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1036  vim flickrWorkloadTest 
+ 1037  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1038  vim flickrWorkloadTest 
+ 1039  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1040  vim flickrWorkloadTest 
+ 1041  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1042  vim flickrWorkloadTest 
+ 1043  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1044  cd ../fora/
+ 1045  ./fora generate-ss-query --prefix /media/TraminerData/uqrwan14/datasets --dataset flickr --query_size 100
+ 1046  ./fora generate-ss-query --prefix /media/TraminerData/uqrwan14/datasets/ --dataset flickr --query_size 100
+ 1047  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1048  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1049  cd -
+ 1050  vim coverforwardpush.cpp 
+ 1051  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1052  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr --hybridsize 50 --rwmode 0 >> flickrWorkloadTest
+ 1053  vim flickrWorkloadTest 
+ 1054  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1055  cd -
+ 1056  ls
+ 1057  vim test.sh 
+ 1058  vim foraPlusResults 
+ 1059  vim test.sh 
+ 1060  git diff
+ 1061  git log
+ 1062  vim .gitignore 
+ 1063  ls
+ 1064  git diff
+ 1065  vim idx_building_output 
+ 1066  ll /media/TraminerData/uqrwan14/datasets/friendster/
+ 1067  vim test.sh 
+ 1068  ./test.sh 
+ 1069  vim foraResults 
+ 1070  ./test.sh 
+ 1071  vim test.sh 
+ 1072  ./test.sh 
+ 1073  cd ssppr/For
+ 1074  cd ssppr/fora/
+ 1075  ls
+ 1076  vim foraResults 
+ 1077  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1078  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1079  mv /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1080  vim test.sh 
+ 1081  vim foraResults 
+ 1082  ./test.sh 
+ 1083  vim foraResults 
+ 1084  vim foraPlusResults 
+ 1085  cp test.sh testIdx.sh
+ 1086  vim testIdx.sh 
+ 1087  vim foraResults 
+ 1088  vim testIdx.sh 
+ 1089  ./fora query --algo fora --prefix /media/TraminerData/uqrwan14/datasets/ --dataset livejournal --epsilon 0.5 --query_size 20 >> foraPlusResults --with_idx
+ 1090  vim foraPlusResults 
+ 1091  vim testIdx.sh 
+ 1092  ./testIdx.sh 
+ 1093  vim foraPlusResults 
+ 1094  cd ../ForwardPush/
+ 1095  ls
+ 1096  mv testscripts/test.sh .
+ 1097  vim test.sh 
+ 1098  vim coverforwardpush.cpp 
+ 1099  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1100  vim coverforwardpush.cpp 
+ 1101  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1102  vim test.sh 
+ 1103  ./test
+ 1104  ./test.sh 
+ 1105  rm bagOnlyResults_liv 
+ 1106  vim bagOnlyResults 
+ 1107  vim test.sh 
+ 1108  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1109  vim coverforwardpush.cpp 
+ 1110  vim covergraph.h 
+ 1111  vim coverforwardpush.cpp 
+ 1112  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1113  vim coverforwardpush.cpp 
+ 1114  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1115  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1116  vim coverforwardpush.cpp 
+ 1117  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1118  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1119  vim coverforwardpush.cpp 
+ 1120  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1121  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1122  vim /media/TraminerData/uqrwan14/datasets/livejournal/ssquery.txt
+ 1123  vim coverforwardpush.cpp 
+ 1124  :q
+ 1125  vim coverforwardpush.cpp 
+ 1126  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1127  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1128  vim coverforwardpush.cpp 
+ 1129  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1130  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal   --hybridsize 50
+ 1131  vim coverforwardpush.cpp 
+ 1132  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1133  vim test.sh 
+ 1134  ./test.sh 
+ 1135  ls
+ 1136  vim bagOnlyResults_liv 
+ 1137  vim bagOnlyResults_ork 
+ 1138  vim bagOnlyResults_pok 
+ 1139  vim bagOnlyResults_fli 
+ 1140  vim bagOnlyResults_twi 
+ 1141  vim coverforwardpush.cpp 
+ 1142  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1143  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1144  cp /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1145  vim test.sh 
+ 1146  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr       >> bagOnlyResults_fli  --hybridsize 50
+ 1147  vim bagOnlyResults_fli 
+ 1148  vim coverforwardpush.cpp 
+ 1149  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1150  ./coverpafora 
+ 1151  vim coverforwardpush.cpp 
+ 1152  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1153  ./coverpafora 
+ 1154  cd -
+ 1155  cd ../ForaLigra/
+ 1156  ls
+ 1157  top
+ 1158  htop
+ 1159  top
+ 1160  htop
+ 1161  top
+ 1162  cd ssppr/fora/
+ 1163  ls
+ 1164  vim foraPlusResults 
+ 1165  cd ssppr/For
+ 1166  cd ssppr/ForwardPush/
+ 1167  ls
+ 1168  vim bagOnlyResults_liv 
+ 1169  vim test.sh 
+ 1170  vim coverforwardpush.cpp 
+ 1171  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1172  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1173  vim coverforwardpush.cpp 
+ 1174  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1175  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1176  top
+ 1177  screen -r
+ 1178  cd ssppr/ForwardPush/
+ 1179  ls
+ 1180  vim bagOnlyResults_liv 
+ 1181  vim bagOnlyResults_ork 
+ 1182  vim bagOnlyResults_pok 
+ 1183  vim bagOnlyResults_fli 
+ 1184  vim bagOnlyResults_twi 
+ 1185  vim coverforwardpush.cpp 
+ 1186  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1187  screen -r 
+ 1188  vim bagOnlyResults_liv 
+ 1189  vim bagOnlyResults_ork 
+ 1190  vim coverforwardpush.cpp 
+ 1191  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O3 
+ 1192  vim coverforwardpush.cpp 
+ 1193  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O3 
+ 1194  vim coverforwardpush.cpp 
+ 1195  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O3 
+ 1196  vim coverforwardpush.cpp 
+ 1197  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O3 
+ 1198  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1199  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O3 -g
+ 1200  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50 
+ 1201  vim coverforwardpush.cpp +675
+ 1202  vim coverforwardpush.cpp +680
+ 1203  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50 
+ 1204  vim coverforwardpush.cpp +612
+ 1205  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O0 -g
+ 1206  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50 
+ 1207  git diff
+ 1208  vim coverforwardpush.cpp 
+ 1209  cilkg++  -std=c++11  coverforwardpush.cpp  -o coverpafora -O0 
+ 1210  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1211  git add .
+ 1212  git commit
+ 1213  git checkout nolockpouch 
+ 1214  vim coverforwardpush.cpp 
+ 1215  git branch
+ 1216  git checkout nolock
+ 1217  ls
+ 1218  vim forwardpush.cpp 
+ 1219  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 
+ 1220  vim forwardpush.cpp 
+ 1221  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 
+ 1222  vim forwardpush.cpp 
+ 1223  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 
+ 1224  vim forwardpush.cpp 
+ 1225  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 
+ 1226  ./nestedtest  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1227  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 -g
+ 1228  gdb --args ./nestedtest  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1229  git branch
+ 1230  git stash
+ 1231  git checkout nolockpouch 
+ 1232  vim coverforwardpush.cpp 
+ 1233  git checkout vldb2019 
+ 1234  vim coverforwardpush.cpp 
+ 1235  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0 -g
+ 1236  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1237  vim coverforwardpush.cpp 
+ 1238  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0 
+ 1239  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1240  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1241  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1242  git add .
+ 1243  git commit
+ 1244  git push
+ 1245  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0 
+ 1246  vim coverforwardpush.cpp 
+ 1247  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1248  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1249  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1250  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1251  vim coverforwardpush.cpp 
+ 1252  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1253  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1254  vim coverforwardpush.cpp 
+ 1255  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1256  vim coverforwardpush.cpp 
+ 1257  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1258  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1259  vim coverforwardpush.cpp +687
+ 1260  vim coverforwardpush.cpp 
+ 1261  vim coverforwardpush.cpp +612
+ 1262  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1263  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1264  vim coverforwardpush.cpp +612
+ 1265  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1266  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1267  vim coverforwardpush.cpp 
+ 1268  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1269  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1270  vim coverforwardpush.cpp 
+ 1271  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1272  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1273  vim coverforwardpush.cpp 
+ 1274  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1275  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1276  vim coverforwardpush.cpp 
+ 1277  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1278  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1279  vim coverforwardpush.cpp 
+ 1280  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1281  vim coverforwardpush.cpp 
+ 1282  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1283  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1284  vim coverforwardpush.cpp 
+ 1285  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1286  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1287  vim coverforwardpush.cpp 
+ 1288  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1289  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1290  vim coverforwardpush.cpp 
+ 1291  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1292  vim coverforwardpush.cpp 
+ 1293  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1294  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1295  vim coverforwardpush.cpp 
+ 1296  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1297  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1298  vim coverforwardpush.cpp 
+ 1299  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1300  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1301  vim coverforwardpush.cpp 
+ 1302  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1303  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1304  vim coverforwardpush.cpp 
+ 1305  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1306  vim coverforwardpush.cpp 
+ 1307  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1308  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1309  vim coverforwardpush.cpp 
+ 1310  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1311  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1312  vim coverforwardpush.cpp 
+ 1313  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1314  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1315  vim coverforwardpush.cpp 
+ 1316  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1317  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1318  vim coverforwardpush.cpp 
+ 1319  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1320  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1321  vim coverforwardpush.cpp 
+ 1322  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1323  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1324  vim coverforwardpush.cpp 
+ 1325  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1326  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1327  vim coverforwardpush.cpp 
+ 1328  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1329  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50
+ 1330  git add .
+ 1331  git commit --amend 
+ 1332  git push
+ 1333  git pull
+ 1334  vim coverforwardpush.cpp 
+ 1335  git pull
+ 1336  git add .
+ 1337  git pull
+ 1338  git merge
+ 1339  git commit
+ 1340  git push
+ 1341  cd ../fora/
+ 1342  cd ../ForaLigra/
+ 1343  ls
+ 1344  cd apps/
+ 1345  ls
+ 1346  vim flickrResults 
+ 1347  rm flickrResults 
+ 1348  vim testFlickr.sh 
+ 1349  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1350  vim testFlickr.sh 
+ 1351  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1352  vim testFlickr.sh 
+ 1353  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1354  vim testFlickr.sh 
+ 1355  cd ../../ForwardPush/
+ 1356  vim flickrWorkloadTest 
+ 1357  vim coverforwardpush.cpp 
+ 1358  vim flickrWorkloadTest 
+ 1359  vim coverforwardpush.cpp 
+ 1360  vim covergraph.h 
+ 1361  vim coverforwardpush.cpp 
+ 1362  vim covergraph.h 
+ 1363  vim coverforwardpush.cpp 
+ 1364  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1365  vim coverforwardpush.cpp 
+ 1366  vim /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1367  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1368  cd ../fora/
+ 1369  ./fora generate-ss-query --prefix /media/TraminerData/uqrwan14/datasets/ --dataset flickr --query_size 100
+ 1370  cd -
+ 1371  vim /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt 
+ 1372  cp /media/TraminerData/uqrwan14/datasets/flickr/ssquery.txt /media/TraminerData/uqrwan14/datasets/flickr/heavyquery.txt 
+ 1373  vim coverforwardpush.cpp 
+ 1374  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1375  ls
+ 1376  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/flickr  --hybridsize 50 >> flickrWorkloadTest 
+ 1377  vim flickrWorkloadTest 
+ 1378  cd -
+ 1379  cd ../ForaLigra/apps/
+ 1380  ls
+ 1381  cd ../../ForwardPush/
+ 1382  ls
+ 1383  vim flickrWorkloadTest 
+ 1384  top
+ 1385  htop
+ 1386  top
+ 1387  cd ssppr/ForwardPush/
+ 1388  ls
+ 1389  vim bagOnlyResults_liv 
+ 1390  vim bagOnlyResults_ork 
+ 1391  vim bagOnlyResults_pok 
+ 1392  vim bagOnlyResults_twi 
+ 1393  vim coverforwardpush.cpp 
+ 1394  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1395  vim coverforwardpush.cpp 
+ 1396  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1397  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1398  vim coverforwardpush.cpp 
+ 1399  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1400  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1401  vim coverforwardpush.cpp 
+ 1402  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1403  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1404  vim coverforwardpush.cpp 
+ 1405  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1406  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1407  vim coverforwardpush.cpp 
+ 1408  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1409  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1410  vim coverforwardpush.cpp 
+ 1411  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1412  vim test.sh 
+ 1413  screen -r
+ 1414  vim bagOnlyResults_liv_rw 
+ 1415  vim bagOnlyResults_ork_rw 
+ 1416  vim bagOnlyResults_pokec_rw 
+ 1417  vim bagOnlyResults_pok_rw 
+ 1418  vim bagOnlyResults_pok
+ 1419  vim bagOnlyResults_twi_rw 
+ 1420  top
+ 1421  htop
+ 1422  ls
+ 1423  cd ssppr/ForwardPush/
+ 1424  ls
+ 1425  vim coverforwardpush.cpp 
+ 1426  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1427  vim coverforwardpush.cpp 
+ 1428  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1429  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1430  vim coverforwardpush.cpp 
+ 1431  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1432  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50 
+ 1433  vim coverforwardpush.cpp 
+ 1434  vim test.sh 
+ 1435  vim coverforwardpush.cpp 
+ 1436  ./test.sh 
+ 1437  vim coverforwardpush.cpp 
+ 1438  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1439  vim test.sh 
+ 1440  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1441  vim coverforwardpush.cpp 
+ 1442  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1443  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1444  vim coverforwardpush.cpp 
+ 1445  ./test.sh 
+ 1446  vim bagOnlyResults_liv_atomsrc 
+ 1447  vim bagOnlyResults_ork_atomsrc 
+ 1448  vim bagOnlyResults_pk_atomsrc 
+ 1449  vim bagOnlyResults_twi_atomsrc 
+ 1450  vim coverforwardpush.cpp 
+ 1451  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1452  vim coverforwardpush.cpp 
+ 1453  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1454  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1455  vim coverforwardpush.cpp 
+ 1456  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1457  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1458  vim coverforwardpush.cpp 
+ 1459  vim /media/TraminerData/uqrwan14/datasets/livejournal/heavyquery.txt 
+ 1460  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1461  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1462  vim coverforwardpush.cpp 
+ 1463  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1464  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1465  vim coverforwardpush.cpp 
+ 1466  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1467  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1468  vim coverforwardpush.cpp 
+ 1469  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1470  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1471  vim coverforwardpush.cpp 
+ 1472  vim /media/TraminerData/uqrwan14/datasets/livejournal/heavyquery.txt 
+ 1473  ls
+ 1474  vim ssppr/ForwardPush/
+ 1475  vim ssppr/ForwardPush/coverforwardpush.cpp 
+ 1476  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1477  cd ssppr/ForwardPush/
+ 1478  ls
+ 1479  cd ssppr/ForwardPush/
+ 1480  ls
+ 1481  vim coverforwardpush.cpp 
+ 1482  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1483  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1484  vim coverforwardpush.cpp 
+ 1485  ls
+ 1486  mkdir bagOnlyResults
+ 1487  mkdir bagOnlyResult
+ 1488  mv bagOnlyResults* bagOnlyResult
+ 1489  ls
+ 1490  mkdir nestedCilkForFP
+ 1491  vim test.sh 
+ 1492  vim coverforwardpush.cpp 
+ 1493  vim test.sh 
+ 1494  screen -r
+ 1495  top
+ 1496  cd ssppr/ForwardPush/
+ 1497  screen -r
+ 1498  vim coverforwardpush.cpp 
+ 1499  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1500  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1501  vim coverforwardpush.cpp 
+ 1502  vim test.sh 
+ 1503  ls
+ 1504  vim test.sh 
+ 1505  screen -r
+ 1506  top
+ 1507  ls
+ 1508  vim pouch_liv_atomicSource 
+ 1509  vim bagOnlyNestedLoop_liv_atomicSource 
+ 1510  mkdir bagOnlyNestedLoop
+ 1511  mv bagOnlyNestedLoop* bagOnlyNestedLoop/
+ 1512  ls
+ 1513  mkdir pouchResults
+ 1514  mv pouch_* pouchResults/
+ 1515  ls
+ 1516  vim coverforwardpush.cpp 
+ 1517  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1518  vim coverforwardpush.cpp 
+ 1519  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1520  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1521  vim coverforwardpush.cpp 
+ 1522  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1523  vim test.sh 
+ 1524  vim coverforwardpush.cpp 
+ 1525  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1526  screen -r
+ 1527  vim coverforwardpush.cpp 
+ 1528  cd bagOnlyNestedLoop/
+ 1529  ls
+ 1530  vim bagOnlyNestedLoop_liv_atomicSource 
+ 1531  vim bagOnlyNestedLoop_fli_atomicSource 
+ 1532  vim bagOnlyNestedLoop_ork_atomicSource 
+ 1533  vim bagOnlyNestedLoop_pok_atomicSource 
+ 1534  vim bagOnlyNestedLoop_twi_atomicSource
+ 1535  vim bagOnlyNestedLoop_liv_atomicSource 
+ 1536  vim bagOnlyNestedLoop_ork_atomicSource 
+ 1537  vim bagOnlyNestedLoop_pok_atomicSource 
+ 1538  vim bagOnlyNestedLoop_twi_atomicSource
+ 1539  cd ..
+ 1540  ls
+ 1541  cd pouchResults/
+ 1542  ls
+ 1543  vim pouch_liv_atomicSource 
+ 1544  vim pouch_ork_atomicSource 
+ 1545  vim pouch_pok_atomicSource 
+ 1546  vim pouch_twi_atomicSource 
+ 1547  vim ../coverforwardpush.cpp 
+ 1548  top
+ 1549  vim covf
+ 1550  cd ..
+ 1551  vim coverforwardpush.cpp 
+ 1552  ls
+ 1553  mkdir hybridResults
+ 1554  mv hybrid* hybridResults/
+ 1555  cd hybridResults/
+ 1556  ls
+ 1557  vim hybrid_liv 
+ 1558  vim hybrid_twi 
+ 1559  cd ..
+ 1560  ls
+ 1561  vim coverforwardpush.cpp 
+ 1562  vim hybridResults/hybrid_liv 
+ 1563  vim hybridResults/hybrid_ork 
+ 1564  vim hybridResults/hybrid_pok 
+ 1565  vim hybridResults/hybrid_twi 
+ 1566  vim coverforwardpush.cpp 
+ 1567  vim covergraph.h 
+ 1568  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1569  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1570  vim covergraph.h 
+ 1571  ls /media/TraminerData/uqrwan14/datasets/livejournal
+ 1572  vim covergraph.h 
+ 1573  vim coverforwardpush.cpp 
+ 1574  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1575  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1576  vim coverforwardpush.cpp 
+ 1577  vim covergraph.h 
+ 1578  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1579  vim coverforwardpush.cpp 
+ 1580  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1581  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1582  vim coverforwardpush.cpp 
+ 1583  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1584  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1585  vim coverforwardpush.cpp 
+ 1586  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1587  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1588  vim coverforwardpush.cpp 
+ 1589  vim covergraph.h 
+ 1590  vim coverforwardpush.cpp 
+ 1591  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1592  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1593  vim coverforwardpush.cpp 
+ 1594  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 100
+ 1595  vim coverforwardpush.cpp 
+ 1596  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1597  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 100
+ 1598  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1599  vim coverforwardpush.cpp 
+ 1600  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1601  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1602  vim coverforwardpush.cpp 
+ 1603  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1604  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1605  vim coverforwardpush.cpp 
+ 1606  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1607  vim coverforwardpush.cpp 
+ 1608  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1609  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1610  vim coverforwardpush.cpp 
+ 1611  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1612  vim coverforwardpush.cpp 
+ 1613  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1614  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1615  vim coverforwardpush.cpp 
+ 1616  vim coverforwardpush.cpp +1
+ 1617  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1618  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1619  git diff
+ 1620  git diff coverforwardpush.cpp
+ 1621  vim coverforwardpush.cpp +1
+ 1622  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1623  vim coverforwardpush.cpp 
+ 1624  vim coverforwardpush.cpp +1
+ 1625  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1626  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1627  vim coverforwardpush.cpp +1
+ 1628  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1629  vim test.sh 
+ 1630  screen -r
+ 1631  top
+ 1632  cd ssppr/For
+ 1633  cd ssppr/ForwardPush/
+ 1634  ls
+ 1635  vim hybrid_twi 
+ 1636  vim hybridResults/hybrid_twi 
+ 1637  vim pouchResults/pouch_liv_atomicSource 
+ 1638  vim pouchResults/pouch_twi_atomicSource 
+ 1639  vim pouch.h 
+ 1640  mv hybrid_* hybridResults/
+ 1641  git add .
+ 1642  git commit
+ 1643  vim pouch.h 
+ 1644  vim covergraph.h 
+ 1645  ls
+ 1646  vim hybridResults/hybrid_liv 
+ 1647  vim covergraph.h 
+ 1648  vim coverforwardpush.cpp 
+ 1649  vim covergraph.h 
+ 1650  vim pouch.h 
+ 1651  vim covergraph.h 
+ 1652  vim coverforwardpush.cpp 
+ 1653  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1654  vim test.sh 
+ 1655  screen -r
+ 1656  cd ssppr/For
+ 1657  cd ssppr/ForwardPush/
+ 1658  vim coverforwardpush.cpp 
+ 1659  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1660  screen -r
+ 1661  cd ssppr/ForwardPush/
+ 1662  vim coverforwardpush.cpp 
+ 1663  screen -r
+ 1664  rm pouch_dynamic_*
+ 1665  vim coverforwardpush.cpp 
+ 1666  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1667  screen -r
+ 1668  cd ssppr/For
+ 1669  cd ssppr/ForwardPush/
+ 1670  ls
+ 1671  vim pouch_dynamic_liv 
+ 1672  vim pouch_dynamic_twi 
+ 1673  vim pouch_dynamic_ork 
+ 1674  vim pouch_dynamic_liv 
+ 1675  vim coverforwardpush.cpp 
+ 1676  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1677  screen -r
+ 1678  git dff
+ 1679  git diff
+ 1680  ls
+ 1681  vim pouch_dynamic_twi 
+ 1682  vim pouch_dynamic_liv 
+ 1683  vim coverforwardpush.cpp 
+ 1684  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1685  screen -r
+ 1686  top
+ 1687  vim pouch_dynamic_liv 
+ 1688  vim pouch_dynamic_twi 
+ 1689  vim coverforwardpush.cpp 
+ 1690  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1691  screen -r
+ 1692  top
+ 1693  vim pouch_dynamic_twi 
+ 1694  vim coverforwardpush.cpp 
+ 1695  vim pouch_dynamic_twi 
+ 1696  vim coverforwardpush.cpp 
+ 1697  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1698  screen -r
+ 1699  vim pouch_dynamic_twi 
+ 1700  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1701  vim coverforwardpush.cpp 
+ 1702  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1703  vim pouch_dynamic_ork 
+ 1704  vim pouch_dynamic_liv 
+ 1705  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1706  screen -r
+ 1707  top
+ 1708  vim pouch_dynamic_twi 
+ 1709  vim coverforwardpush.cpp 
+ 1710  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1711  screen -r
+ 1712  top
+ 1713  vim pouch_dynamic_twi 
+ 1714  vim coverforwardpush.cpp 
+ 1715  vim pouch_dynamic_twi 
+ 1716  vim coverforwardpush.cpp 
+ 1717  vim pouch_dynamic_twi 
+ 1718  top
+ 1719  vim pouch_dynamic_twi 
+ 1720  vim coverforwardpush.cpp 
+ 1721  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1722  screen -r
+ 1723  top
+ 1724  ls
+ 1725  vim hybridResults/hybrid_twi 
+ 1726  top
+ 1727  vim pouch_dynamic_twi 
+ 1728  vim coverforwardpush.cpp 
+ 1729  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1730  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1731  vim test.sh 
+ 1732  screen -r
+ 1733  top
+ 1734  cd  ssppr/ForwardPush/
+ 1735  ls
+ 1736  vim coverforwardpush.cpp 
+ 1737  ls
+ 1738  cd ssppr/ForwardPush/
+ 1739  ls
+ 1740  vim hybrid_bag_twi 
+ 1741  mv hybrid_bag_* hybridResults/
+ 1742  ls
+ 1743  mv pouch_dynamic_* pouchResults/
+ 1744  ls
+ 1745  vim coverforwardpush.cpp 
+ 1746  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1747  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1748  vim coverforwardpush.cpp 
+ 1749  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1750  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1751  vim coverforwardpush.cpp 
+ 1752  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1753  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1754  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1755  vim coverforwardpush.cpp 
+ 1756  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1757  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1758  vim coverforwardpush.cpp 
+ 1759  vim hybridResults/hybrid_bag_liv 
+ 1760  vim hybridResults/hybrid_bag_twi 
+ 1761  vim hybridResults/hybrid_liv 
+ 1762  vim coverforwardpush.cpp 
+ 1763  vim hybridResults/hybrid_bag_twi 
+ 1764  vim coverforwardpush.cpp 
+ 1765  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1766  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1767  vim coverforwardpush.cpp 
+ 1768  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1769  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1770  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1771  vim coverforwardpush.cpp 
+ 1772  vim covergraph.h 
+ 1773  vim hybridResults/hybrid_liv 
+ 1774  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1775  vim coverforwardpush.cpp 
+ 1776  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1777  vim coverforwardpush.cpp 
+ 1778  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1779  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1780  vim coverforwardpush.cpp 
+ 1781  vim covergraph.h 
+ 1782  vim coverforwardpush.cpp 
+ 1783  vim covergraph.h 
+ 1784  vim coverforwardpush.cpp 
+ 1785  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1786  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1787  vim coverforwardpush.cpp 
+ 1788  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1789  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1790  vim coverforwardpush.cpp 
+ 1791  vim covergraph.h 
+ 1792  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1793  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1794  vim covergraph.h 
+ 1795  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1796  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1797  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 -g
+ 1798  gdb --args ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1799  vim covergraph.h 
+ 1800  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1801  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1802  vim coverforwardpush.cpp 
+ 1803  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1804  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1805  git add .
+ 1806  git commit
+ 1807  git push
+ 1808  vim test.sh 
+ 1809  screen -r
+ 1810  top
+ 1811  cd ssppr/For
+ 1812  cd ssppr/ForwardPush/
+ 1813  ls
+ 1814  vim rwidx_nl_hybrid_bag_twi 
+ 1815  vim rwidx_nl_hybrid_bag_liv 
+ 1816  vim rwidx_nl_hybrid_bag_twi 
+ 1817  vim coverforwardpush.cpp 
+ 1818  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1819  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1820  vim coverforwardpush.cpp 
+ 1821  vim covergraph.h 
+ 1822  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1823  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1824  vim rwidx_nl_hybrid_bag_liv 
+ 1825  vim coverforwardpush.cpp 
+ 1826  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1827  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1828  vim test.sh 
+ 1829  screen -r
+ 1830  cd ssppr/ForwardPush/
+ 1831  ls
+ 1832  vim rwidx_permuted_hybrid_bag_twi 
+ 1833  vim rwidx_nl_hybrid_bag_twi 
+ 1834  vim coverforwardpush.cpp 
+ 1835  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1836  vim coverforwardpush.cpp 
+ 1837  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1838  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1839  vim coverforwardpush.cpp 
+ 1840  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1841  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1842  vim coverforwardpush.cpp 
+ 1843  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1844  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1845  vim rwidx_nl_hybrid_bag_fli 
+ 1846  vim rwidx_permuted_hybrid_bag_fli 
+ 1847  vim test.sh 
+ 1848  screen -r
+ 1849  opt
+ 1850  top
+ 1851  vim test.sh 
+ 1852  vim raceinfo_fp_hybrid_bag_twi 
+ 1853  vim coverforwardpush.cpp 
+ 1854  vim test.sh 
+ 1855  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1856  screen -r
+ 1857  top
+ 1858  vim coverforwardpush.cpp 
+ 1859  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1860  vim coverforwardpush.cpp 
+ 1861  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1862  vim coverforwardpush.cpp 
+ 1863  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3 
+ 1864  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1865  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0
+ 1866  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1867  vim coverforwardpush.cpp 
+ 1868  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0
+ 1869  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1870  vim coverforwardpush.cpp 
+ 1871  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O0
+ 1872  vim coverforwardpush.cpp 
+ 1873  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1874  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1875  vim coverforwardpush.cpp 
+ 1876  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1877  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1878  vim raceinfo_fp_hybrid_bag_twi 
+ 1879  vim raceinfo_fp_hybrid_bag_liv 
+ 1880  vim coverforwardpush.cpp 
+ 1881  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1882  vim test.sh 
+ 1883  screen -r
+ 1884  vim raceinfo_fp_hybrid_bag_ork 
+ 1885  top
+ 1886  htop
+ 1887  vim raceinfo_fp_hybrid_bag_pok 
+ 1888  vim raceinfo_fp_hybrid_bag_ork 
+ 1889  top
+ 1890  vim coverforwardpush.cpp 
+ 1891  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1892  vim raceinfo_fp_hybrid_bag_ork 
+ 1893  vim raceinfo_fp_hybrid_bag_liv 
+ 1894  vim raceinfo_fp_hybrid_bag_pok 
+ 1895  vim raceinfo_fp_hybrid_bag_liv 
+ 1896  vim raceinfo_fp_hybrid_bag_ork 
+ 1897  vim raceinfo_fp_hybrid_bag_twi 
+ 1898  vim coverforwardpush.cpp 
+ 1899  vim raceinfo_fp_hybrid_bag_ork 
+ 1900  vim raceinfo_fp_hybrid_bag_pok 
+ 1901  vim raceinfo_fp_hybrid_bag_liv 
+ 1902  screen -r
+ 1903  top
+ 1904  vim raceinfo_fp_hybrid_bag_liv 
+ 1905  vim raceinfo_fp_hybrid_bag_ork 
+ 1906  vim raceinfo_fp_hybrid_bag_pok 
+ 1907  vim raceinfo_fp_hybrid_bag_twi 
+ 1908  mkdir raceinfo
+ 1909  mv raceinfo_fp_hybrid_bag_* raceinfo
+ 1910  ls
+ 1911  mkdir rwidxResults
+ 1912  mv rwidx_* rwidxResults/
+ 1913  ls
+ 1914  vim pouchResults/pouch_dynamic_liv 
+ 1915  vim pouchResults/pouch_liv_atomicSource 
+ 1916  vim pouchResults/pouch_twi_atomicSource 
+ 1917  vim pouchResults/pouch_ork_atomicSource
+ 1918  vim pouchResults/pouch_dynamic_ork 
+ 1919  vim pouchResults/pouch_dynamic_twi 
+ 1920  vim pouchResults/pouch_dynamic_pok 
+ 1921  top
+ 1922  vim coverforwardpush.cpp 
+ 1923  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1924  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1925  vim testPouch.sh
+ 1926  chmod +x testPouch.sh 
+ 1927  ./testPouch.sh 
+ 1928  vim coverforwardpush.cpp 
+ 1929  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1930  ./testPouch.sh 
+ 1931  vim coverforwardpush.cpp 
+ 1932  vim hybridResults/hybrid_liv 
+ 1933  vim hybridResults/hybrid_bag_liv 
+ 1934  vim hybridResults/hybrid_bag_ork 
+ 1935  vim hybridResults/hybrid_bag_pok 
+ 1936  vim hybridResults/hybrid_bag_twi 
+ 1937  vim rwidxResults/rwidx_nl_hybrid_bag_liv 
+ 1938  vim coverforwardpush.cpp 
+ 1939  vim rwidxResults/rwidx_nl_hybrid_bag_liv 
+ 1940  vim rwidxResults/rwidx_nl_hybrid_bag_ork 
+ 1941  vim rwidxResults/rwidx_nl_hybrid_bag_twi 
+ 1942  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1943  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1944  vim coverforwardpush.cpp 
+ 1945  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1946  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/livejournal  --hybridsize 50
+ 1947  vim coverforwardpush.cpp 
+ 1948  vim covergraph.h 
+ 1949  vim coverforwardpush.cpp 
+ 1950  vim covergraph.h 
+ 1951  vim test.sh 
+ 1952  screen -r
+ 1953  top
+ 1954  vim rwidxResults/rwidx_nl_hybrid_bag_liv 
+ 1955  vim rwidxResults/rwidx_nl_hybrid_bag_ork 
+ 1956  vim rwidxResults/rwidx_nl_hybrid_bag_pok 
+ 1957  vim rwidxResults/rwidx_nl_hybrid_bag_fli 
+ 1958  vim rwidxResults/rwidx_nl_hybrid_bag_twi 
+ 1959  vim rwidxResults/rwidx_nl_hybrid_bag_liv 
+ 1960  vim rwidxResults/rwidx_nl_hybrid_bag_ork 
+ 1961  vim rwidxResults/rwidx_permuted_hybrid_bag_liv 
+ 1962  vim rwidxResults/rwidx_permuted_hybrid_bag_ork 
+ 1963  vim rwidxResults/rwidx_permuted_hybrid_bag_pok 
+ 1964  vim rwidxResults/rwidx_permuted_hybrid_bag_twi 
+ 1965  vim rwidxResults/rwidx_permuted_hybrid_bag_pok 
+ 1966  vim rwidxResults/rwidx_permuted_hybrid_bag_twi 
+ 1967  top
+ 1968  vim coverforwardpush.cpp 
+ 1969  vim test.sh 
+ 1970  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/pokec  --hybridsize 50
+ 1971  icc -std=c++11 coverforwardpush.cpp -o coverpafora -O3
+ 1972  ./coverpafora  --dataset /media/TraminerData/uqrwan14/datasets/pokec  --hybridsize 50
+ 1973  vim rwidxResults/rwidx_nl_hybrid_bag_pok 
+ 1974  ls
+ 1975  vim pafora_tuned_twi 
+ 1976  cd ..
+ 1977  cd fora/
+ 1978  ls
+ 1979  vim foraPlusResults 
+ 1980  cd ../ForwardPush/
+ 1981  ls
+ 1982  vim rwidxResults/rwidx_permuted_hybrid_bag_twi 
+ 1983  vim pafora_tuned_twi 
+ 1984  vim pafora_tuned_liv 
+ 1985  vim pafora_tuned_ork 
+ 1986  vim pafora_tuned_pok 
+ 1987  vim pafora_tuned_twi 
+ 1988  vim ../fora/foraPlusResults 
+ 1989  vim rwidxResults/rwidx_nl_hybrid_bag_liv 
+ 1990  vim rwidxResults/rwidx_nl_hybrid_bag_ork 
+ 1991  vim rwidxResults/rwidx_nl_hybrid_bag_twi 
+ 1992  vim rwidxResults/rwidx_nl_hybrid_bag_pok 
+ 1993  vim pafora_tuned_liv 
+ 1994  top
+ 1995  cd ssppr/ForwardPush/
+ 1996  ls
+ 1997  vim rwidxResults/rwidx_permuted_hybrid_bag_twi 
+ 1998  vim rwidxResults/rwidx_permuted_hybrid_bag_liv 
+ 1999  vim rwidxResults/rwidx_permuted_hybrid_bag_ork 
+ 2000  vim rwidxResults/rwidx_permuted_hybrid_bag_pok 
+ 2001  cd ssppr/ForwardPush/
+ 2002  vim coverforwardpush.cpp 
+ 2003  cilkg++  -std=c++11  forwardpush.cpp  -o nestedtest -O3 -g
+ 2004  cilkg++  -std=c++11  coverforwardpush.cpp  -O3 
+ 2005  history 
+ 2006  history > commandhistory

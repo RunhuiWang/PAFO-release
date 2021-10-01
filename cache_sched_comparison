@@ -1,0 +1,2330 @@
+[0;32m--------------start------------2019-01-23 12:26:34[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 350051.832 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 2.739119 seconds with 80 workers
+Random  walk executed in 2.697009 seconds with 80 workers
+Pafora executed in 5.436128 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 12:39:29[0m
+[0;32m--------------start------------2019-01-23 12:39:33[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 350600.600 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 2.489825 seconds with 80 workers
+Random  walk executed in 2.706960 seconds with 80 workers
+Pafora executed in 5.196785 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 12:52:04[0m
+[0;32m--------------start------------2019-01-23 12:52:08[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 351632.936 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.459343 seconds with 80 workers
+Random  walk executed in 2.722177 seconds with 80 workers
+Pafora executed in 6.181520 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 13:04:32[0m
+[0;32m--------------start------------2019-01-23 13:04:34[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+27 17 28 25 32 37 33 19 11 7 21 9 15 13 8 35 39 31 0 22 34 14 3 29 4 18 10 23 5 30 16 38 26 12 6 20 36 2 1 24 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 365175.134 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 2.424570 seconds with 80 workers
+Random  walk executed in 2.692690 seconds with 80 workers
+Pafora executed in 5.117259 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 13:17:26[0m
+[0;32m--------------start------------2019-01-23 13:17:28[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+36 39 16 4 19 2 7 23 13 29 22 14 37 5 21 17 31 24 12 8 1 27 3 10 26 18 35 0 25 38 6 9 32 11 34 15 28 33 30 20 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 369279.089 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 2.084753 seconds with 80 workers
+Random  walk executed in 2.694496 seconds with 80 workers
+Pafora executed in 4.779249 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 13:30:06[0m
+[0;32m--------------start------------2019-01-23 13:30:08[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+31 5 1 13 23 20 0 10 27 21 2 37 9 4 19 25 16 8 39 30 35 6 32 24 11 17 22 29 18 14 12 26 7 33 36 34 38 15 3 28 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 364981.648 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.539339 seconds with 80 workers
+Random  walk executed in 2.711778 seconds with 80 workers
+Pafora executed in 6.251117 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 13:43:02[0m
+[0;32m--------------start------------2019-01-23 13:43:04[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+0 21 33 10 35 23 9 18 17 38 7 32 4 16 25 5 27 36 29 6 15 3 30 2 1 24 28 26 11 37 8 31 12 20 22 14 13 39 34 19 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 366646.143 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.350825 seconds with 80 workers
+Random  walk executed in 2.721863 seconds with 80 workers
+Pafora executed in 6.072688 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-23 13:55:57[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0;32m--------------start------------2019-01-24 00:00:50[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 358072.281 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.621271 seconds with 80 workers
+Random  walk executed in 2.636007 seconds with 80 workers
+Pafora executed in 4.257278 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 00:12:27[0m
+[0;32m--------------start------------2019-01-24 00:12:29[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 349900.858 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.626095 seconds with 80 workers
+Random  walk executed in 2.636238 seconds with 80 workers
+Pafora executed in 4.262333 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 00:23:55[0m
+[0;32m--------------start------------2019-01-24 00:23:58[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 353498.865 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.613420 seconds with 80 workers
+Random  walk executed in 2.641281 seconds with 80 workers
+Pafora executed in 4.254701 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 00:35:29[0m
+[0;32m--------------start------------2019-01-24 00:35:32[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 350085.147 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.619265 seconds with 80 workers
+Random  walk executed in 2.639684 seconds with 80 workers
+Pafora executed in 4.258949 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 00:47:01[0m
+[0;32m--------------start------------2019-01-24 00:47:04[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 357756.566 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.626645 seconds with 80 workers
+Random  walk executed in 2.642628 seconds with 80 workers
+Pafora executed in 4.269273 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 00:58:40[0m
+[0;32m--------------start------------2019-01-24 00:58:42[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+3 33 6 7 31 8 34 21 20 36 22 2 37 26 17 29 12 25 39 1 35 15 11 4 27 32 18 19 13 5 28 24 0 16 14 30 10 23 38 9 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 365048.773 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.619166 seconds with 80 workers
+Random  walk executed in 2.638375 seconds with 80 workers
+Pafora executed in 4.257541 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 01:10:43[0m
+[0;32m--------------start------------2019-01-24 01:10:45[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+0 8 24 7 12 17 28 3 29 6 4 10 31 34 11 38 5 32 20 36 33 18 2 39 9 25 35 1 16 30 13 22 15 27 14 37 26 21 19 23 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 365299.933 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.619148 seconds with 80 workers
+Random  walk executed in 2.642014 seconds with 80 workers
+Pafora executed in 4.261161 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 01:22:51[0m
+[0;32m--------------start------------2019-01-24 01:22:53[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+29 33 7 21 5 14 38 35 28 6 4 18 11 15 23 0 22 19 10 9 13 25 1 17 37 2 34 39 16 36 8 26 20 32 31 3 24 30 27 12 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 365789.930 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.606475 seconds with 80 workers
+Random  walk executed in 2.638826 seconds with 80 workers
+Pafora executed in 4.245301 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 01:34:52[0m
+[0;32m--------------start------------2019-01-24 01:34:55[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+34 30 1 5 14 7 32 18 33 28 19 8 15 12 20 37 11 2 21 10 38 22 6 3 36 0 16 25 13 23 29 4 27 35 26 9 17 31 39 24 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 364430.049 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.593348 seconds with 80 workers
+Random  walk executed in 2.640257 seconds with 80 workers
+Pafora executed in 4.233605 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 01:46:53[0m
+[0;32m--------------start------------2019-01-24 01:46:55[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+17 35 9 21 25 28 8 36 16 29 12 3 31 22 19 27 39 34 5 6 1 13 20 33 10 23 30 11 26 18 4 2 14 37 0 24 7 15 38 32 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 364908.276 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 1.601532 seconds with 80 workers
+Random  walk executed in 2.640974 seconds with 80 workers
+Pafora executed in 4.242505 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-24 01:58:53[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[0;32m--------------start------------2019-01-25 17:14:54[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 350893.254 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.604591 seconds with 80 workers
+Random  walk executed in 3.095845 seconds with 80 workers
+Pafora executed in 6.700437 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 17:26:56[0m
+[0;32m--------------start------------2019-01-25 17:26:58[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 351591.576 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.596829 seconds with 80 workers
+Random  walk executed in 3.103036 seconds with 80 workers
+Pafora executed in 6.699865 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 17:39:11[0m
+[0;32m--------------start------------2019-01-25 17:39:13[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 351841.043 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.590962 seconds with 80 workers
+Random  walk executed in 3.099259 seconds with 80 workers
+Pafora executed in 6.690220 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 17:51:21[0m
+[0;32m--------------start------------2019-01-25 17:51:23[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 352031.625 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.616727 seconds with 80 workers
+Random  walk executed in 3.100980 seconds with 80 workers
+Pafora executed in 6.717707 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 18:03:26[0m
+[0;32m--------------start------------2019-01-25 18:03:28[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 351600.972 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.591997 seconds with 80 workers
+Random  walk executed in 3.100038 seconds with 80 workers
+Pafora executed in 6.692036 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 18:15:31[0m
+[0;32m--------------start------------2019-01-25 18:15:33[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+3 27 11 0 14 28 20 30 18 29 31 16 4 35 2 6 7 34 10 32 25 39 23 36 37 9 15 1 5 12 24 19 8 33 17 26 21 38 22 13 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 364923.716 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.512383 seconds with 80 workers
+Random  walk executed in 2.684180 seconds with 80 workers
+Pafora executed in 6.196564 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 18:27:55[0m
+[0;32m--------------start------------2019-01-25 18:27:57[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+5 14 17 25 9 20 12 2 0 3 16 37 39 36 38 7 15 10 13 29 21 33 6 1 35 31 8 30 34 32 23 11 19 22 26 27 18 28 4 24 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 363947.370 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.516650 seconds with 80 workers
+Random  walk executed in 2.680954 seconds with 80 workers
+Pafora executed in 6.197604 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 18:40:42[0m
+[0;32m--------------start------------2019-01-25 18:40:44[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+30 26 8 6 18 27 0 25 32 23 28 4 20 12 9 35 31 38 10 33 1 19 2 39 13 29 21 16 17 22 37 5 3 36 15 14 24 11 34 7 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 366740.401 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.520142 seconds with 80 workers
+Random  walk executed in 2.683310 seconds with 80 workers
+Pafora executed in 6.203451 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 18:53:07[0m
+[0;32m--------------start------------2019-01-25 18:53:09[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+38 37 19 26 34 8 39 15 25 10 33 11 4 29 35 23 18 6 30 2 36 20 1 0 32 12 5 28 24 9 31 16 27 21 13 7 22 14 17 3 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 370061.888 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.522211 seconds with 80 workers
+Random  walk executed in 2.685709 seconds with 80 workers
+Pafora executed in 6.207920 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 19:06:02[0m
+[0;32m--------------start------------2019-01-25 19:06:04[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+m = 3612134270, nodepointer[0][n] = 3612134270
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+NUMA_NODES_SIZE = 4
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 1024
+NBLOCKS=64071 NROUNDS=1602
+1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1602 1601 1601 1601 1601 1601 1601 1601 1601 1601 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+Cache schedule ends
+NBLOCKS=64071 NROUNDS=1602
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_1024p.txt
+thd cilk for begin
+32 4 17 11 28 20 1 29 21 12 8 15 7 24 35 3 10 26 39 34 36 37 9 13 25 30 6 5 14 18 16 27 23 22 31 38 0 33 2 19 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 364552.830 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+Forward push executed in 3.528609 seconds with 80 workers
+Random  walk executed in 2.681439 seconds with 80 workers
+Pafora executed in 6.210048 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+paGraph del() called
+paGraph del() ended
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-25 19:18:42[0m
+[0;32m--------------start------------2019-01-27 01:29:59[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 67.406166 seconds with 1 workers
+Random  walk executed in 134.539613 seconds with 1 workers
+Pafora executed in 201.945780 seconds with 1 workers
+topk queries executed in 0.000000 seconds with 1 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 03:33:13[0m
+[0;32m--------------start------------2019-01-27 03:33:18[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 3.439602 seconds with 40 workers
+Random  walk executed in 3.711797 seconds with 40 workers
+Pafora executed in 7.151399 seconds with 40 workers
+topk queries executed in 0.000000 seconds with 40 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 04:33:27[0m
+[0;32m--------------start------------2019-01-27 04:33:33[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+[0;32m--------------start------------2019-01-27 05:35:38[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+[0;32m--------------start------------2019-01-27 06:31:23[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+[0;32m--------------start------------2019-01-27 07:51:44[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+36 27 37 24 32 23 8 0 39 33 35 11 20 3 13 16 18 4 25 12 17 15 31 28 38 30 2 21 6 1 7 26 34 29 9 22 5 19 10 14 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+[0;32m--------------start------------2019-01-27 08:46:01[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+35 14 1 8 7 24 11 32 0 17 3 27 9 12 5 33 4 6 39 22 10 21 18 28 13 37 23 16 2 15 31 34 38 19 25 30 20 29 26 36 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+string to words done
+atol finished
+n=65608366 m=18457348175
+ajd idx m = 18457348175
+adj idx read! 
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 2.120215 seconds with 40 workers
+Random  walk executed in 3.740900 seconds with 40 workers
+Pafora executed in 5.861115 seconds with 40 workers
+topk queries executed in 0.000000 seconds with 40 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 09:44:44[0m
+[0;32m--------------start------------2019-01-27 09:44:51[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+7 30 20 34 11 5 29 21 3 18 10 33 36 14 28 17 32 23 15 25 27 37 13 38 16 22 8 6 35 0 24 9 12 1 4 2 31 26 39 19 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+read string from file...
+read string from file done
+string to words...
+[0;32m--------------start------------2019-01-27 11:54:56[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 367586.098 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 43.025909 seconds with 1 workers
+Random  walk executed in 131.405593 seconds with 1 workers
+Pafora executed in 174.431502 seconds with 1 workers
+topk queries executed in 0.000000 seconds with 1 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 13:24:01[0m
+[0;32m--------------start------------2019-01-27 13:24:02[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 377806.559 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 3.271802 seconds with 40 workers
+Random  walk executed in 3.648396 seconds with 40 workers
+Pafora executed in 6.920199 seconds with 40 workers
+topk queries executed in 0.000000 seconds with 40 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 13:56:56[0m
+[0;32m--------------start------------2019-01-27 13:56:58[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+Cache schedule ends
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 368017.135 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 3.760274 seconds with 80 workers
+Random  walk executed in 3.023788 seconds with 80 workers
+Pafora executed in 6.784062 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 14:29:37[0m
+[0;32m--------------start------------2019-01-27 14:29:38[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+6 29 7 10 5 1 13 20 21 0 19 23 3 28 16 11 31 22 2 30 26 9 18 14 34 27 35 24 39 8 32 15 12 4 36 25 33 38 37 17 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 358797.794 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 66.762765 seconds with 1 workers
+Random  walk executed in 132.851665 seconds with 1 workers
+Pafora executed in 199.614431 seconds with 1 workers
+topk queries executed in 0.000000 seconds with 1 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 16:07:32[0m
+[0;32m--------------start------------2019-01-27 16:07:33[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+4 13 17 21 8 20 32 5 18 7 27 29 31 36 9 34 11 6 12 2 16 19 24 33 25 38 37 22 30 14 26 28 1 10 3 23 0 39 35 15 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 355730.038 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 1.881384 seconds with 40 workers
+Random  walk executed in 3.665729 seconds with 40 workers
+Pafora executed in 5.547112 seconds with 40 workers
+topk queries executed in 0.000000 seconds with 40 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 16:40:13[0m
+[0;32m--------------start------------2019-01-27 16:40:14[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+scanned edges =  3612134270 m = 3612134270
+graph degree order read
+init graph n: 65608366 m: 3612134270
+Avg degree: 55  log(n): 17.9992
+rmax = 4.11469e-10
+Omega = 12263752590
+Omega * rmax = 1.682051
+separation begin
+edge count is 3612134270
+dividingline = 65608366
+dividingline == n
+separation finished
+sorting in separate() done
+Cache schedule called
+HOT_SET not defined
+)(*&asdfasdfasdfasdfasdfasdfasdfasdfas^%$#$%^&*(
+grain size = 205026
+rounded grain size = 2048
+NBLOCKS=32036 NROUNDS=801
+801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 801 800 800 800 800 
+NCACHELINE is 8201046
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+Cache schedule ends
+NBLOCKS=32036 NROUNDS=801
+
+load grain block matrix.../media/bigdata/uqrwan14/graphdata/friendster//grain_block_matrix40_mixed_512p.txt
+thd cilk for begin
+33 17 20 4 1 10 6 22 5 8 2 26 0 32 36 19 7 21 25 9 18 30 34 14 38 11 29 35 15 3 23 39 28 27 12 31 24 16 37 13 0
+   numa aware residue array loaded
+threshold scale is 3.000000
+scaled rmax is 0.000000000411469
+rw grain size is 523
+generating random walk destinations thres type is 0
+threshold scale in generate_random_walks() is 3
+result_idx = 18457348175
+index generated in 357307.745 milliseconds using 80 workers.
+total destinations number is 18457348175
+target counts loaded from /media/bigdata/uqrwan14/graphdata/friendster//rwidx3_counts.txt
+rwidx stats loaded!
+target dividing line = 16218447
+count line  = 65608367
+target counts max is 26567
+dest pointers end = 18457348175index mapped
+random walk destinations ready
+ready for query
+query start
+valid source number is  23
+query number is 20
+NUMA_NODES_SIZE = 4
+Forward push executed in 1.600681 seconds with 80 workers
+Random  walk executed in 3.052300 seconds with 80 workers
+Pafora executed in 4.652980 seconds with 80 workers
+topk queries executed in 0.000000 seconds with 80 workers
+random walk by atomic<double>
+hybrid size is 100.000000
+==================================
+
+[0;31m--------------stop------------2019-01-27 17:12:27[0m
+[0;32m--------------start------------2019-02-01 18:23:05[0m
+[0;32m--------------start------------2019-02-07 13:45:42[0m
+query file has 23 sources
+/media/bigdata/uqrwan14/graphdata/friendster/ 
+-=-=-=-=-=-=read graph by scan
+-=-=-=-=-=-= graph split
+0 903033532 1806067112 2709100353 
+0
+/media/bigdata/uqrwan14/graphdata/friendster//graph_part0.txt
+2
+1
+/media/bigdata/uqrwan14/graphdata/friendster//graph_part2.txt
+/media/bigdata/uqrwan14/graphdata/friendster//graph_part1.txt
+3
